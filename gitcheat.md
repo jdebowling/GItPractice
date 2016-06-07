@@ -4,8 +4,8 @@
 
 *Configuration commands*:
 
-git config --global user.name "[name]  
-git config --global user.email "[email address]  
+git config --global user.name "[name]"  
+git config --global user.email "[email address]"  
 git config --global core.editor "subl -n -w"  
 git config --list  
 
@@ -14,3 +14,4 @@ git config --list
 git add [filename]  
 git commit -m "(message explaining change to the file)"  
 git push [this command pushes the file to the GitHub repo]
+git status [this command tells you want has been modified, tracked, and so on]  
