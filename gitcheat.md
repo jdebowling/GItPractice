@@ -8,3 +8,9 @@ git config --global user.name "[name]
 git config --global user.email "[email address]  
 git config --global core.editor "subl -n -w"  
 git config --list  
+
+*Adding, committing, and pushing*:
+
+git add [filename]  
+git commit -m "(message explaining change to the file)"  
+git push [this command pushes the file to the GitHub repo]
